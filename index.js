@@ -16,7 +16,7 @@ function DrumResponse(drum_key){
     btns[key_index].classList.toggle("pressed");
     setTimeout(() => {
         btns[key_index].classList.toggle("pressed");
-    }, 600);
+    }, 500);
 }
 
 
